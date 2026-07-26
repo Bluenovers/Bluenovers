@@ -1,7 +1,5 @@
 <h3 align="center">Full Stack Dev</h3>
 
-                         Trying out all devloper Niche
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,go,rust,docker,aws,git,linux,figma&perline=12" />
 </p>
