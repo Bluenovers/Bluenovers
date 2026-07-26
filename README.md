@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1> <h3 align="center">Full Stack Dev</h3>
+</h1> <h3 align="center">Full Stack Dev</h3>
 
 Developer who doesn't stick to one lane — web, mobile, ML, DevOps, game dev, embedded, whatever's next. Learning by building.
 
